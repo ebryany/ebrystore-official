@@ -1,29 +1,33 @@
-# Ebrystore Official — Pusat Produk Digital & Layanan Teknologi
+# Ebrystore Official — Pusat Produk Digital & Layanan Jasa Pembuatan Website
 
 Selamat datang di repository resmi **[Ebrystore](https://ebrystore.my.id/)** yang dikembangkan oleh **Ebry (Febryanus Tambing)**.
 
-Ebrystore adalah platform terpadu untuk penyediaan **[produk digital](https://ebrystore.my.id/produk)** resmi bergaransi, solusi kecerdasan buatan (AI), serta pendampingan akademik.
+Ebrystore adalah platform terpercaya untuk penyediaan **[produk digital](https://ebrystore.my.id/produk)**, **[jasa pembuatan website](https://ebrystore.my.id/layanan/jasa-pembuatan-website-laravel-plan-mahasiswa)**, **partner ngoding**, serta pendampingan **[jasa kerja tugas](https://ebrystore.my.id/layanan/jasa-joki-tugas-makalah-akademik)** akademik mahasiswa.
 
 ---
 
-## 🌟 Layanan & Produk Unggulan
+## 💻 Layanan Jasa Pembuatan Website & Pengembangan Web
+Bagi Anda yang ingin **membuat website** profesional dengan **biaya pembuatan website** yang transparan:
+- **[Jasa Pembuatan Web Laravel](https://ebrystore.my.id/layanan/jasa-pembuatan-website-laravel-plan-mahasiswa)**: Solusi buat web aplikasi, toko online, dan sistem informasi kampus.
+- **[Jasa Desain Website](https://ebrystore.my.id/layanan/jasa-pembuatan-website-laravel-plan-mahasiswa)**: Desain UI/UX modern, responsif mobile, dan berkecepatan tinggi.
+- **Partner Ngoding & Solusi IT**: Pendampingan koding skripsi, debugging error, dan deployment ke cloud VPS.
 
-1. **[Produk Digital AI & Kreatif](https://ebrystore.my.id/produk)**:
-   - **[ChatGPT Business Workspace Invite](https://ebrystore.my.id/produk/chatgpt-business-invite-akses-workspace-business)**: Akses fitur workspace resmi OpenAI untuk produktivitas kerja dan coding.
-   - **[Google AI Pro Gemini Advanced 1.5 Pro](https://ebrystore.my.id/produk/google-ai-pro-premium-1-5-tahun-murah-gemini-pro-ebrystoree)**: Langganan jangka panjang 18 bulan aktif untuk riset literatur raksasa.
-   - **[Canva Pro Tim](https://ebrystore.my.id/produk/canva-pro-1-bulan-murah-akses-fitur-premium-ebrystoree)**: Akses fitur desain grafis tanpa batas.
-   - **[Prompt Pack AI Automation 2026](https://ebrystore.my.id/produk/panduan-prompt-pack-ai-automation-2026)**: Kumpulan prompt teruji untuk otomasi alur kerja bisnis.
+---
 
-2. **[Artikel Edukasi & Panduan Teknologi AI](https://ebrystore.my.id/artikel)**:
-   - Baca kumpulan **[artikel teknologi](https://ebrystore.my.id/artikel)** seputar perbandingan model AI, analisis benchmark (GPT-6 vs Claude Fable), serta panduan implementasi framework MGRCAO.
+## 📚 Jasa Kerja Tugas & Pendampingan Akademik
+- **[Jasa Joki & Kerja Tugas Kuliah](https://ebrystore.my.id/layanan/jasa-joki-tugas-makalah-akademik)**: Pengerjaan makalah, artikel ilmiah, analisis data, dan tugas pemrograman bergaransi revisi.
 
-3. **[Bantuan Tugas & Pengerjaan Proyek](https://ebrystore.my.id/layanan)**:
-   - Layanan pembuatan website Laravel, deployment server/hosting, serta pendampingan tugas akademik mahasiswa.
+---
+
+## 🌟 Katalog Produk Digital Resmi
+- **[ChatGPT Business Workspace Invite](https://ebrystore.my.id/produk/chatgpt-business-invite-akses-workspace-business)**: Akses workspace OpenAI resmi untuk coding dan riset.
+- **[Google AI Pro Gemini Advanced 1.5 Pro](https://ebrystore.my.id/produk/google-ai-pro-premium-1-5-tahun-murah-gemini-pro-ebrystoree)**: Langganan aktif 18 bulan resmi.
+- **[Canva Pro Murah](https://ebrystore.my.id/produk/canva-pro-1-bulan-murah-akses-fitur-premium-ebrystoree)**: Akses desain tanpa batas via invite tim.
+- **[Prompt Pack AI Automation 2026](https://ebrystore.my.id/produk/panduan-prompt-pack-ai-automation-2026)**: Panduan prompt otomasi bisnis.
 
 ---
 
 ## 🔗 Tautan Resmi Ebrystore:
 - **Website Utama**: [https://ebrystore.my.id/](https://ebrystore.my.id/)
-- **Katalog Produk**: [https://ebrystore.my.id/produk](https://ebrystore.my.id/produk)
-- **Arsip Artikel**: [https://ebrystore.my.id/artikel](https://ebrystore.my.id/artikel)
-- **Instagram**: [@ebrystoremyid](https://www.instagram.com/ebrystoremyid/)
+- **Layanan Pembuatan Web**: [https://ebrystore.my.id/layanan](https://ebrystore.my.id/layanan)
+- **Artikel Edukasi AI**: [https://ebrystore.my.id/artikel](https://ebrystore.my.id/artikel)
