@@ -6,7 +6,7 @@ Ebrystore adalah platform terpercaya untuk penyediaan **[produk digital](https:/
 
 ---
 
-## 🛠 Layanan Jasa Pembuatan Website & Pengembangan Web
+## 💻 Layanan Jasa Pembuatan Website & Pengembangan Web
 Bagi Anda yang ingin **membuat website** profesional dengan **biaya pembuatan website** yang transparan:
 - **[Jasa Pembuatan Web Laravel](https://ebrystore.my.id/layanan/jasa-pembuatan-website-laravel-plan-mahasiswa)**: Solusi buat web aplikasi, toko online, dan sistem informasi kampus.
 - **[Jasa Desain Website](https://ebrystore.my.id/layanan/jasa-pembuatan-website-laravel-plan-mahasiswa)**: Desain UI/UX modern, responsif mobile, dan berkecepatan tinggi.
@@ -20,10 +20,11 @@ Bagi Anda yang ingin **membuat website** profesional dengan **biaya pembuatan we
 ---
 
 ## 🌟 Katalog Produk Digital Resmi
-- **[ChatGPT Business Workspace Invite](https://ebrystore.my.id/produk/chatgpt-business-invite-akses-workspace-business)**: Akses workspace OpenAI resmi untuk coding dan riset.
+- **[ChatGPT Business Workspace Invite](https://ebrystore.my.id/produk/chatgpt-business-invite-po-only)**: Akses workspace OpenAI resmi untuk coding dan riset.
 - **[Google AI Pro Gemini Advanced 1.5 Pro](https://ebrystore.my.id/produk/google-ai-pro-premium-1-5-tahun-murah-gemini-pro-ebrystoree)**: Langganan aktif 18 bulan resmi.
 - **[Canva Pro Murah](https://ebrystore.my.id/produk/canva-pro-1-bulan-murah-akses-fitur-premium-ebrystoree)**: Akses desain tanpa batas via invite tim.
 - **[Prompt Pack AI Automation 2026](https://ebrystore.my.id/produk/panduan-prompt-pack-ai-automation-2026)**: Panduan prompt otomasi bisnis.
+- **[MGRCAO Prompt Engineering System](https://ebrystore.my.id/produk/mgrcao-prompt-engineering-system-panduan-praktis-ai-untuk-riset-coding-produk-au)**: Standar prompt engineering terstruktur.
 
 ---
 
@@ -32,6 +33,9 @@ Bagi Anda yang ingin **membuat website** profesional dengan **biaya pembuatan we
 - **[Claude Fable 5.1: Benchmark & Evaluasi Multimodal 1 Juta Token](docs/claude-fable-5-1-benchmark.md)** — Rujukan asli: [Artikel Claude Fable 5.1](https://ebrystore.my.id/artikel/claude-fable-5-1-benchmark-harga-api-speed-dan-context-window-1-juta-token)
 - **[Model AI Open Weights Terbaik 2026: GLM-5.3 vs Kimi K3](docs/model-ai-open-weights-2026.md)** — Rujukan asli: [Artikel Open Weights 2026](https://ebrystore.my.id/artikel/model-ai-open-weights-terbaik-2026-glm-5-3-vs-kimi-k3)
 - **[Model AI Terpintar 2026: Claude Fable 5.1 vs GPT-6 Astra](docs/model-ai-terpintar-2026.md)** — Rujukan asli: [Artikel Model Terpintar 2026](https://ebrystore.my.id/artikel/model-ai-terpintar-2026-claude-fable-5-1-vs-gpt-6-astra)
+- **[Perbedaan ChatGPT Plus, Pro, dan Business Invite](docs/perbedaan-chatgpt-plus-pro-business-invite.md)** — Rujukan asli: [Artikel Perbedaan ChatGPT](https://ebrystore.my.id/artikel/perbedaan-chatgpt-plus-pro-business-invite)
+- **[Apa Itu Artificial Intelligence? Cara Kerja & Contoh](docs/apa-itu-artificial-intelligence.md)** — Rujukan asli: [Artikel Apa Itu AI](https://ebrystore.my.id/artikel/apa-itu-artificial-intelligence-pengertian-cara-kerja-dan-contohnya)
+- **[Cara Menggunakan AI dengan Framework MGRCAO](docs/cara-menggunakan-ai-dengan-framework-mgrcao.md)** — Rujukan asli: [Artikel Panduan MGRCAO](https://ebrystore.my.id/artikel/cara-menggunakan-ai-dengan-framework-mgrcao-panduan-lengkap-untuk-pemula)
 - **[Panduan Memilih AI Terbaik 2026](docs/panduan-memilih-ai-2026.md)** — Rujukan asli: [Portal Ebrystore](https://ebrystore.my.id/)
 
 ---
@@ -39,4 +43,5 @@ Bagi Anda yang ingin **membuat website** profesional dengan **biaya pembuatan we
 ## 🔗 Tautan Resmi Ebrystore:
 - **Website Utama**: [https://ebrystore.my.id/](https://ebrystore.my.id/)
 - **Layanan Pembuatan Web**: [https://ebrystore.my.id/layanan](https://ebrystore.my.id/layanan)
+- **Katalog Produk Digital**: [https://ebrystore.my.id/produk](https://ebrystore.my.id/produk)
 - **Artikel Edukasi AI**: [https://ebrystore.my.id/artikel](https://ebrystore.my.id/artikel)
